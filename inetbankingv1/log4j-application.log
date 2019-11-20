@@ -1,0 +1,5 @@
+2019-10-31 14:58:42,622  INFO [main] ebanking:16 - URL is opened
+ 2019-10-31 14:58:42,947  INFO [main] ebanking:21 - Entered Username
+ 2019-10-31 14:58:43,230  INFO [main] ebanking:24 - Entered Password
+ 2019-10-31 14:58:45,764  INFO [main] ebanking:31 - Login test passed
+ 
